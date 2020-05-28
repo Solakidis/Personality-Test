@@ -66,7 +66,7 @@ const resultList = {
   },
   result2: {
     name: "a pleasing tulip",
-    display_name: "Pleasing Tulip",
+    display_name: "Yo are a... Tulip",
     audio_message: "If tulips are your go-to flowers, there's a good chance you're incredibly positive.",
     description: "The tulip can bloom on the coldest of days and also the sunniest. It happily goes with the flow, quite literally following the sunshine.",
     img: {
@@ -76,7 +76,7 @@ const resultList = {
   },
   result3: {
     name: "a silent calla lilie",
-    display_name: "Α silent calla lilie",
+    display_name: "Yo are a... Calla lilie",
     audio_message: "Calla lily aficionados appreciate minimalist design and take a less-is-more approach to life.",
     description: "These flowers don't require constant upkeep, and unlike colorful attention-seeking flowers, a bouquet of calla lilies commands a room using only the understated beauty of its simple silhouette.",
     img: {
@@ -86,7 +86,7 @@ const resultList = {
   },
   result4: {
     name: "a Hydrangea lover",
-    display_name: "A Hydrangea lover",
+    display_name: "You are definetely a Hydrangea ",
     audio_message: "Hydrangeas have great versatility and always enrich other blooms with their presence.",
     description: "offering great strength and support to more fragile flowers. However, you can't leave hydrangeas alone for too long; they may look strong, but they rely on your help as much as other flowers rely on them.",
     img: {
@@ -96,7 +96,7 @@ const resultList = {
   },
   result5: {
     name: "a luxurious peony",
-    display_name: "A luxurious peony",
+    display_name: "Peony is your flower soulmate",
     audio_message: "Voluptuous, luxurious, and sweet, the peony remains in high demand",
     description: "The peony is much-loved, yet blooms in a very short window of time. One must live in the moment with the blooming peony, appreciating it while you can, because you know you will spend most of your time without it,",
     img: {
